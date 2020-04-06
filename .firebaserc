@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angularninetryout": {
+      "hosting": {
+        "angularninetryout": [
+          "angularninetryout"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "tryout": "angularninetryout"
+  }
+}
